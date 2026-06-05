@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/W0vRSh7.png)
 
-## Django REST Boilerplate
+## Django REST Boilerplate project
 
 Boilerplate for Django projects using Django REST Framework.
 
